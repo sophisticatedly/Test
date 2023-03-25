@@ -1,0 +1,16 @@
+D:\WPF练手项目一\WpfApp1\Test\bin\Debug\Test.exe.config
+D:\WPF练手项目一\WpfApp1\Test\bin\Debug\Test.exe
+D:\WPF练手项目一\WpfApp1\Test\bin\Debug\Test.pdb
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\View\MainView.g.cs
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\App.g.cs
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test_MarkupCompile.cache
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test_MarkupCompile.lref
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\View\MainView.baml
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.g.resources
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.Properties.Resources.resources
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.exe
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\Test.pdb
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\View\Login.g.cs
+D:\WPF练手项目一\WpfApp1\Test\obj\Debug\View\Login.baml
